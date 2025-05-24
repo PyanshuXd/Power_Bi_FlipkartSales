@@ -1,4 +1,4 @@
-# <div align="center">BMW Car Sales Dashboard</div>
+# <div align="center">Flipkart Sales Dashboard</div>
 
 ![Intro](https://github.com/PyanshuXd/Power_Bi_FlipkartSales/blob/02038d42c728d3296a71b598d8941b7c0026227b/Images_Used/Intro.jpg)
 
