@@ -1,0 +1,4 @@
+Dax 1 : QTD Sales = TOTALQTD(SUM(Flipkart_Data[Price(Dollar)]), 'Calendar'[Date])
+Dax 2 : YTD Product Sold = TOTALYTD(COUNT(Flipkart_Data[Product Category]), 'Calendar'[Date])
+Dax 3 : YTD Reviews = TOTALYTD(SUM(Flipkart_Data[Number of  reviews]), 'Calendar'[Date])
+Dax 4 : YTD Sales = TOTALYTD(SUM(Flipkart_Data[Price(Dollar)]), 'Calendar'[Date])
