@@ -57,3 +57,5 @@ This Power BI project successfully consolidated and analyzed Flipkart sales data
 Include screenshots of the Power BI dashboard, data model, and visualizations.
 
 ![Page 1](https://github.com/PyanshuXd/Power_Bi_FlipkartSales/blob/02038d42c728d3296a71b598d8941b7c0026227b/Images_Used/Dashboard.png)
+
+![Page 1](https://github.com/PyanshuXd/Power_Bi_FlipkartSales/blob/9fe5301cbbc8d523f3359ea59349a38b5f4f5dbb/Images_Used/Connection.png)
