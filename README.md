@@ -1,6 +1,6 @@
 # <div align="center">BMW Car Sales Dashboard</div>
 
-![Intro](https://github.com/PyanshuXd/Car_Sales-Power-BI-/blob/13a4e20944fd360cdfe9e47826ffb02c6084015c/Images%20Used/dash.png)
+![Intro](https://github.com/PyanshuXd/Power_Bi_FlipkartSales/blob/02038d42c728d3296a71b598d8941b7c0026227b/Images_Used/Intro.jpg)
 
 ## Description:
 
@@ -18,7 +18,7 @@ This project presents an interactive Power BI dashboard for analyzing Flipkart's
 - Identify top-performing products and underperforming segments.
 - Provide actionable insights to optimize inventory, marketing, and pricing strategies.
 
-![Objective](https://github.com/PyanshuXd/Car_Sales-Power-BI-/blob/4d21e0d474381dba5af9f3daa155ac409863d1b7/Images%20Used/pngtree-car-salesman-in-dealer-showroom-image_77441.png)
+![Objective](https://github.com/PyanshuXd/Power_Bi_FlipkartSales/blob/02038d42c728d3296a71b598d8941b7c0026227b/Images_Used/objective.png)
 
 ## Technology Used in the Project:
 - Power BI Desktop: For data modeling, visualization, and report creation.
@@ -33,7 +33,7 @@ Consolidate data from three Excel files: Sales Data, Car Data, and Country Data.
 - Develop interactive visualizations to analyze sales trends, country wise performance, and customer demographics.
 - Publish the report to Power BI Service for stakeholder access.
 
-![requirement](https://github.com/PyanshuXd/Car_Sales-Power-BI-/blob/c13753c2613c9ed4cbb00d12036099641b054ffb/Images%20Used/Bi%20x%20excel.png)
+![requirement](https://github.com/PyanshuXd/Power_Bi_FlipkartSales/blob/02038d42c728d3296a71b598d8941b7c0026227b/Images_Used/tools.jpeg)
 
 ## DAX Queries used and Execution Results:
 
@@ -45,3 +45,15 @@ Consolidate data from three Excel files: Sales Data, Car Data, and Country Data.
 
 •	YTD Sales = TOTALYTD(SUM(Flipkart_Data[Price(Dollar)]), 'Calendar'[Date])
 
+## Challenges Faced in the Project:
+- Data Inconsistency: Some records in the Excel files had missing or inconsistent data, which required cleaning.
+- Complex Relationships: Establishing relationships between multiple tables was initially challenging.
+- Performance Issues: Large datasets caused slow loading times, which were resolved by optimizing the data model.
+
+## Conclusion:
+This Power BI project successfully consolidated and analyzed Flipkart sales data from multiple Excel files, providing actionable insights through interactive visualizations. The dashboard enables stakeholders to make data-driven decisions, improving sales performance and customer satisfaction. With future enhancements, the project can further streamline sales analysis and forecasting.
+
+## Screenshots:
+Include screenshots of the Power BI dashboard, data model, and visualizations.
+
+![Page 1](https://github.com/PyanshuXd/Power_Bi_FlipkartSales/blob/02038d42c728d3296a71b598d8941b7c0026227b/Images_Used/Dashboard.png)
