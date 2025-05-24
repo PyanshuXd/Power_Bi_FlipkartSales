@@ -28,9 +28,9 @@ This project presents an interactive Power BI dashboard for analyzing Flipkart's
 - Power BI Service: For publishing and sharing the report online.
 
 ## Scope of the Project:
-Consolidate data from three Excel files: Sales Data, Car Data, and Country Data.
+Consolidate data from Excel file: Sales Data
 - Create a relational data model to link the tables.
-- Develop interactive visualizations to analyze sales trends, country wise performance, and customer demographics.
+- Develop interactive visualizations to analyze sales trends, Year-wise performance, and Most demanding items.
 - Publish the report to Power BI Service for stakeholder access.
 
 ![requirement](https://github.com/PyanshuXd/Power_Bi_FlipkartSales/blob/02038d42c728d3296a71b598d8941b7c0026227b/Images_Used/tools.jpeg)
